@@ -6,5 +6,5 @@ Join Widows 11 clients to a domain,
 Implement user/group account management,
 Explore Group Policies for centralized control,
 Demonstrate Patch management with Action1.
-# Active directory Installation using PowerShell
+# Active Directory Domain Service deployment using PowerShell
 ![AD Install Screenshot](screenshots/adds-install.png)

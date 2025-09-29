@@ -7,3 +7,4 @@ Implement user/group account management,
 Explore Group Policies for centralized control,
 Demonstrate Patch management with Action1.
 # Active directory Installation using PowerShell
+![AD Install Screenshot](screenshots/adds-install.png)

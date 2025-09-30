@@ -1,1 +1,15 @@
-h
+#Active directory domain service configuration script 
+
+Import-Module ADDSDeployment
+Install-ADDSForest `
+-CreateDnsDelegation:$false `
+-DatabasePath "C:\WINDOWS\NTDS" `
+-DomainMode "Win2025" `
+-DomainName "Sallylab.com" `
+-DomainNetbiosName "SALLYLAB" `
+-ForestMode "Win2025" `
+-InstallDns:$true `
+-LogPath "C:\WINDOWS\NTDS" '
+-NoRebootOnCompletion:$false `
+-SysvolPath "C:\WINDOWS\NTDS\SYSVOL" `
+-Force:$true

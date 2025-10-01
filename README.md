@@ -61,7 +61,7 @@ Tools & Environment
 - README.md > Project Documentation
 - scripts/ > Powershell Scripts used for installation
 - screenshots/ > Setup & results visualization
-- Action1/ > Patch Management Report
+- ManagedEndpoints/ > Patch Management Report
 
 # UP NEXT
 - Add DHCP and DNS roles to the lab.

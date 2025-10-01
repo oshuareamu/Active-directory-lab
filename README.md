@@ -32,9 +32,9 @@ Tools & Environment
 # Group Policy Overview & Management 
 - Created a GPO to enforce setting across clients
 - Example: Disable Clock view and Properties option
-- Before
+- BEFORE
 ![AD PCbefore Screenshot](screenshots/PCbefore.png)
-- After
+- AFTER
 ![AD PCafter Screenshot](screenshots/PCafter.png)
 ## Patch Management with Action1
 - Installed VirtualBox Guest Additions Tools for seamless integration
@@ -43,7 +43,7 @@ Tools & Environment
 - ![AD InstallAction1 Screenshot](screenshots/InstallAction1.png)
 - Deployed updates remptely through Action1 console
 ![AD DeployUpdates Screenshot](screenshots/DeployUpdates.png)
-
+  - Patch Mangement Report
 
 
 

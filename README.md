@@ -42,6 +42,7 @@ Tools & Environment
 - Installed Action1 agent on domain client
 - ![AD InstallAction1 Screenshot](screenshots/InstallAction1.png)
 - Deployed updates remptely through Action1 console
+![AD DeployUpdates Screenshot](screenshots/DeployUpdates.png)
 
 
 

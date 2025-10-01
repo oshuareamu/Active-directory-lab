@@ -21,10 +21,11 @@ Tools & Environment
 - Change the Virtual Machine setting to allow Host only Adapter
 - Join the Windows 11 client and Windows server IPv4 to same subnet
 ![AD Ping Screenshot](screenshots/PingResult.png)
+- Join Client Operating System to a domain
 - Steps: system properties > change settings > join domain sallylab.com >Reboot > Login with domain
 ![AD Domain Screenshot](screenshots/JoinDomain.png)
 - Enabled Remote destktop connection > connect via IPv4 address
-- 
+
 
 
 

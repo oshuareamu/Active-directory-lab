@@ -19,9 +19,11 @@ Tools & Environment
 ![AD Install Screenshot](screenshots/adds-install.png)
 ## 2. Join Windows 11 Client to the Domain
 - Steps: Change the Virtual Machine setting to allow Host only Adapter
-Join the Windows 11 client and Windows server IPv4 to same subnet
-From system properties > change settings > join domain sallylab.com
-Finally, I enabled Remote destktop cpnnection
+- Join the Windows 11 client and Windows server IPv4 to same subnet
+![AD Ping Screenshot](screenshots/PingResult.png)
+- From system properties > change settings > join domain sallylab.com
+- Finally, I enabled Remote destktop connection
+
 
 
 

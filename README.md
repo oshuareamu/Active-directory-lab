@@ -25,6 +25,8 @@ Tools & Environment
 - Steps: system properties > change settings > join domain sallylab.com >Reboot > Login with domain
 ![AD Domain Screenshot](screenshots/JoinDomain.png)
 - Enabled Remote destktop connection > connect via IPv4 address
+![AD RDC Screenshot](screenshots/RDC.png)
+- RESULT
 
 
 

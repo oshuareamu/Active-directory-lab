@@ -18,11 +18,14 @@ Tools & Environment
 # 1. Active Directory Domain Service deployment using PowerShell
 ![AD Install Screenshot](screenshots/adds-install.png)
 ## 2. Join Windows 11 Client to the Domain
-- Steps: Change the Virtual Machine setting to allow Host only Adapter
+- Change the Virtual Machine setting to allow Host only Adapter
 - Join the Windows 11 client and Windows server IPv4 to same subnet
 ![AD Ping Screenshot](screenshots/PingResult.png)
-- From system properties > change settings > join domain sallylab.com
-- Finally, I enabled Remote destktop connection
+- Steps: system properties > change settings > join domain sallylab.com >Reboot > Login with domain
+![AD Domain Screenshot](screenshots/DomainJoin.png)
+- Enabled Remote destktop connection > connect via IPv4 address
+- 
+
 
 
 

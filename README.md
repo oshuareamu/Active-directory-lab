@@ -27,6 +27,11 @@ Tools & Environment
 - Enabled Remote destktop connection > connect via IPv4 address
 ![AD RDC Screenshot](screenshots/RDC.png)
 - RESULT
+![AD RDCresult Screenshot](screenshots/RDCresult.png)
+# Group Policy Overview & Management 
+- Created a GPO to enforce setting across clients
+- Example: Disable Clock view and Properties option
+
 
 
 

@@ -44,7 +44,29 @@ Tools & Environment
 - Deployed updates remptely through Action1 console
 ![AD DeployUpdates Screenshot](screenshots/DeployUpdates.png)
   - Patch Mangement Report
+![AD ManagedEndpoint Screenshot](screenshots/ManagedEndpoint.png)
+# Outcomes
+1. Successfully deployed an AD DS environment using Powershell
+2. Joined a Windows 11 client to the domain.
+3. Configured and tested Group Policy Objects.
+4. Demostrated Patch Mnagement workflow using Action1
+# Reflection & Skills Gained 
+- Hands-on experience with Active Directory & Doamin Services.
+- Automated installation with PowerShell.
+- Pratical understanding of user/group management & GPOs.
+- Experience with third-party patch management tools.
+- Detailed understanding of patch management in cybersecurity.
+- Strengthened system administration & IT support skills.
+# Repository Contents
+- README.md > Project Documentation
+- scripts/ > Powershell Scripts used for installation
+- screenshots/ > Setup & results visualization
+- Action1/ > Patch Management Report
 
+# UP NEXT
+- Add DHCP and DNS roles to the lab.
+- Explore Group Policy security hardening.
+- Integrate with Microsoft Intune for hybrid MDM.
 
 
 

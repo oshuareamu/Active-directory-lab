@@ -40,6 +40,8 @@ Tools & Environment
 - Installed VirtualBox Guest Additions Tools for seamless integration
 - Created a shared Folder to effectively access Action1 agent
 - Installed Action1 agent on domain client
+- ![AD InstallAction1 Screenshot](screenshots/InstallAction1.png)
+- Deployed updates remptely through Action1 console
 
 
 

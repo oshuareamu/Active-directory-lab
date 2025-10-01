@@ -31,6 +31,16 @@ Tools & Environment
 # Group Policy Overview & Management 
 - Created a GPO to enforce setting across clients
 - Example: Disable Clock view and Properties option
+- Before
+![AD PCbefore Screenshot](screenshots/PCbefore.png)
+- After
+![AD PCafter Screenshot](screenshots/PCafter.png)
+## Patch Management with Action1
+- Installed VirtualBox Guest Additions Tools for seamless integration
+- Created a shared Folder to effectively access Action1 agent
+- Installed Action1 agent on domain client
+
+
 
 
 

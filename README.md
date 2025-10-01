@@ -6,5 +6,23 @@ This Hands-on project demostrates the deployment and managemnt of an Active Dire
 - Implement user/group account management
 - Explore Group Policies for centralized control
 - Demonstrate Patch management with Action1.
-# Active Directory Domain Service deployment using PowerShell
+Skills Higlighted: Windows Server Administration, Powershell, Active Directory, Group Policy, Patch Management, IT Support, System Administration
+## Lab setup
+Tools & Environment 
+- Hypervisor: VirtualBox
+- Server OS: Windows Server 2025 (Domain Controller)
+- Client OS: Windows 11
+- Domain name: sallylab.com
+- Patch Management Tool: Action1
+# Implementation Steps
+# 1. Active Directory Domain Service deployment using PowerShell
 ![AD Install Screenshot](screenshots/adds-install.png)
+## 2. Join Windows 11 Client to the Domain
+- Steps: Change the Virtual Machine setting to allow Host only Adapter
+Join the Windows 11 client and Windows server IPv4 to same subnet
+From system properties > change settings > join domain sallylab.com
+Finally, I enabled Remote destktop cpnnection
+
+
+
+   

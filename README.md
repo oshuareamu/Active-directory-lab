@@ -15,7 +15,8 @@ Tools & Environment
 - Domain name: sallylab.com
 - Patch Management Tool: Action1
 # Implementation Steps
-# 1. Active Directory Domain Service deployment using PowerShell
+
+## 1. Active Directory Domain Service deployment using PowerShell
 ![AD Install Screenshot](screenshots/adds-install.png)
 ## 2. Join Windows 11 Client to the Domain
 - Change the Virtual Machine setting to allow Host only Adapter
